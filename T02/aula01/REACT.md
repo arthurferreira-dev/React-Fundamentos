@@ -2,7 +2,7 @@
 > Entendendo o que é e para que serve esta biblioteca **J**ava**S**cript.
 
 ## Entendendo
-O React é uma biblioteca JavaScript criada para manter os sites dinâmicos e interativos, fundada inicialmente pelo *FaceBook* em 2011 e hoje ocupa <br> uma das principais posições de bibliotecas mais utilizadas pra criação de aplicativos **de acordo com a pesquisa do** *Stack Overflow* (de 2023).
+O React é uma biblioteca JavaScript criada para manter os sites dinâmicos e interativos, fundada inicialmente pelo *FaceBook* em 2011 e hoje ocupa uma das principais posições de bibliotecas mais utilizadas pra criação de aplicativos **de acordo com a pesquisa do** *Stack Overflow* (de 2023).
 
 ## Porque o React foi criado?
 O *Browser* carrega um código em uma estrutura de dados em DOM, oque permite que o conteúdo do site possa ser manipulado via JavaScript. <br>
